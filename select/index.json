@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "ナイトルーティーン（feat. suis (from ヨルシカ)）",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-03-25T16:03:08.508155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナイトルーティーン (feat. suis from ヨルシカ)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_ナイトルーティーン_(feat._suis_from_ヨルシカ)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイトルーティーン (feat.suis (from ヨルシカ))",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_ナイトルーティーン_(feat.suis_(from_ヨルシカ))_キタニタツヤ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ナイトルーティーン（feat. suis (from ヨルシカ)）",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/localdb_01_ナイトルーティーン(feat._suis_(from_ヨルシカ))_キタニタツヤ.lrc",
+      "repo_name": "uHPe-Z5BDvA"
+    }
+  ]
+}
